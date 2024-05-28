@@ -16,4 +16,4 @@ Hi, I’m @Programmingmonth I am a programmer and I am a developer who works in 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 # The best operating systems I like:
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)
