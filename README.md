@@ -1,8 +1,9 @@
 # About
-Hello, I am a programmer. I mostly work in the field of artificial intelligence. But sometimes I work with all other programming languages.
+Hello, I am a programmer. I mostly work in the field of artificial intelligence. But sometimes I work with all other programming languages
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Mohammadreza+Ghadiri.;Nice+to+meet+you+👋" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Programming+Month;Nice+to+meet+you" />
 </h1>
+
 
 # Ways to contact us:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw)
