@@ -1,7 +1,7 @@
 # About
 Hello, I am a programmer. I mostly work in the field of artificial intelligence. But sometimes I work with all other programming languages
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=ffdd00&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Programming+Month;Nice+to+meet+you" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=bf00ff&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Programming+Month;Nice+to+meet+you" />
 </h1>
 
 
