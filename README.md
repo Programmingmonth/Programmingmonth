@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=white)](https://discord.com/invite/6aFVrEcd)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/your_stackoverflow_userid)
 
-<h4>⬆️Please click on the buttons.⬆️</h4>
+<h4>⬆️Please click on the buttons⬆️</h4>
 
 
 # Programming languages I work with:
