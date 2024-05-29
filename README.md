@@ -19,6 +19,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
 
 # The best operating systems I like:
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
