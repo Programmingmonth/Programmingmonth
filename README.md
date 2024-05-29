@@ -3,6 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=bf00ff&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Programming+Month;Nice+to+meet+you" />
 </h1>
+
 # Ways to contact us:
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw)
