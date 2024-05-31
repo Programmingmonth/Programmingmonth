@@ -12,7 +12,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 
 
-<h4>⬆️Please click on the buttons⬆️</h4>
+<h2>⬆️Please click on the buttons⬆️</h2>
 
 
 # Programming languages I work with:
