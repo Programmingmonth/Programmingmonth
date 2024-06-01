@@ -12,7 +12,6 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 
 <h2>⬆️Please click on the buttons⬆️</h2>
-<br>
 
 # Programming languages I work with:
 
