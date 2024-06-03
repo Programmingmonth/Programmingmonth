@@ -9,7 +9,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=Telegram&logoColor=white)](https://t.me/+qUyaqI5KDQpjMTk0)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=white)](https://discord.com/invite/6aFVrEcd)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com) ->
 
 <h2>⬆️Please click on the buttons⬆️</h2>
 
