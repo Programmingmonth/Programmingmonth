@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=white)](https://discord.com/invite/6aFVrEcd)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 
-<h2>⬆️Please click on the buttons⬆️</h2>
+<h2>Please click on the buttons</h2>
 
 # Programming languages I work with:
 
