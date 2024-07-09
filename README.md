@@ -19,20 +19,15 @@
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #3776AB; border-radius: 8px;">
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" style="width: 24px; height: 24px;">
     </div>
-</a>
-<a href="https://www.javascript.com" style="display: inline-block; text-decoration: none;">
+</a><a href="https://www.javascript.com" style="display: inline-block; text-decoration: none;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #F7DF1E; border-radius: 8px;">
         <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" style="width: 24px; height: 24px;">
     </div>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block; text-decoration: none;">
+</a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block; text-decoration: none;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #E34F26; border-radius: 8px;">
         <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo" style="width: 24px; height: 24px;">
     </div>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block; text-decoration: none;">
+</a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block; text-decoration: none;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #1572B6; border-radius: 8px;">
         <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo" style="width: 24px; height: 24px;">
     </div>
