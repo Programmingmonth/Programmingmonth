@@ -20,7 +20,6 @@
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" style="width: 24px; height: 24px;">
     </div>
 </a>
-
 <a href="https://www.javascript.com" style="display: inline-block; text-decoration: none;">
     <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #F7DF1E; border-radius: 8px;">
         <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" style="width: 24px; height: 24px;">
