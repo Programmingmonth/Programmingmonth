@@ -34,9 +34,3 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)](https://atom.io/)
-
-<a href="https://www.python.org" style="display: inline-block; text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #3776AB; border-radius: 8px;">
-        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" style="width: 24px; height: 24px;">
-    </div>
-</a>
