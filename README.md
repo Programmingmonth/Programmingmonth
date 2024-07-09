@@ -15,15 +15,60 @@
 
 # Programming languages I work with:
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+<a href="https://www.python.org" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #3776AB; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
+<a href="https://www.javascript.com" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #F7DF1E; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #E34F26; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #1572B6; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #239120; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C# Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
+<a href="https://isocpp.org/" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #00599C; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
+<a href="https://flutter.dev/" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #02569B; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
+<a href="https://www.java.com/" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #007396; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
+<a href="https://developer.android.com/studio" style="display: inline-block; text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #3DDC84; border-radius: 8px;">
+        <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio Logo" style="width: 24px; height: 24px;">
+    </div>
+</a>
+
 # The best operating systems I like:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
