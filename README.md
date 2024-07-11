@@ -12,7 +12,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 <h2>Please click on the buttons</h2>
 
-# Programming languages I work with:
+<h3 align="center"><img src="https://github.com/sparcrystal/sparcrystal/blob/main/code.gif" height="20"/> My skill sets</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
