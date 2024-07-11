@@ -24,7 +24,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-# The best operating systems I like:
+<h2 align="center">The best operating systems I like:</h2>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
