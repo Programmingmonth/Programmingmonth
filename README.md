@@ -35,7 +35,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> The best app for programming:
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?logo=visual-studio&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)](https://atom.io/)
 
