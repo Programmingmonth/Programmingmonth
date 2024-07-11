@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&color=bf00ff&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Programming+Month;Nice+to+meet+you" />
 </h1>
 
-<h2 aling="center">Ways to contact us:</h2>
+<h2 align="center">Ways to contact us:</h2>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=Telegram&logoColor=white)](https://t.me/+qUyaqI5KDQpjMTk0)
