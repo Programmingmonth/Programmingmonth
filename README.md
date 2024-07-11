@@ -12,7 +12,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 <h4>Please click on the buttons</h4>
 
-<h3><img src="https://github.com/Programmingmonth/Programmingmonth/blob/main/assets/code.gif" height="20"/> My skill sets</h3>
+<h1><img src="https://github.com/Programmingmonth/Programmingmonth/blob/main/assets/code.gif" height="20"/> My skill sets</h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
