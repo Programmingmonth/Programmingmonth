@@ -22,7 +22,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 ![Regex](https://img.shields.io/badge/Regex-663399?logo=code&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
