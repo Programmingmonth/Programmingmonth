@@ -39,8 +39,10 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)](https://atom.io/)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublime-text&logoColor=white)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
