@@ -5,47 +5,127 @@
 </h1>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Ways to contact us:
+<a href="https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw">
+<img
+    alt="YouTube"
+    src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"
+/>
+<a href="https://t.me/+qUyaqI5KDQpjMTk0">
+<img
+    alt="Telegram"
+    src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+/>
+<a href="https://discord.com/invite/6aFVrEcd">
+<img
+    alt="Discord"
+    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=Telegram&logoColor=white)](https://t.me/+qUyaqI5KDQpjMTk0)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=white)](https://discord.com/invite/6aFVrEcd)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
-## Please click on the buttons
 
 <h1><img src="https://github.com/Programmingmonth/Programmingmonth/blob/main/assets/code.gif" height="30"/> My skill sets</h1>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
-![Regex](https://img.shields.io/badge/Regex-663399?logo=code&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+<img
+    alt="Python"
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+/>
+<img
+    alt="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+/>
+<img
+    alt="HTML"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+/>
+<img
+    alt="CSS"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+/>
+<img
+    alt="Django"
+    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+/>
+<img
+    alt="Flask"
+    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+/>
+<img
+    alt="C#"
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+/>
+<img
+    alt="C++"
+    src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+/>
+<img
+    alt="C"
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+/>
+<img
+    alt="Flutter"
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+/>
+<img
+    alt="Regex"
+    src="https://img.shields.io/badge/Regex-663399?style=for-the-badge&logo=code&logoColor=white"
+/>
+<img
+    alt="Java"
+    src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"
+/>
+<img
+    alt="Android Studio"
+    src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
+/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **The best operating systems I like:** 
-
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)](https://getfedora.org/)
-![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=pop!_os&logoColor=white)
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **The best operating systems I like:**
+<a href="https://www.microsoft.com/windows">
+<img
+    alt="Windows"
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+/>
+<a href="https://www.linux.org/">
+<img
+    alt="Linux"
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+/>
+<a href="https://ubuntu.com/">
+<img
+    alt="Ubuntu"
+    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+/>
+<a href="https://getfedora.org/">
+<img
+    alt="Fedora"
+    src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"
+/>
+<a href="https://camo.githubusercontent.com/6edf7716b114cfe2bbea20cb03c1c1025f810f2092bef934f1e5dbab263bb5d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f70215f5f4f532d3438423943373f6c6f676f3d706f70215f6f73266c6f676f436f6c6f723d7768697465">
+<img
+    alt="Pop!_OS"
+    src="https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white"
+/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> The best app for programming:
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
-[![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)](https://atom.io/)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublime-text&logoColor=white)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-
+<img
+    alt="Visual Studio Code"
+    src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+/>
+<img
+    alt="Visual Studio 2022"
+    src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"
+/>
+<img
+    alt="Atom"
+    src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white"
+/>
+<img
+    alt="Sublime Text"
+    src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"
+/>
+<img
+    alt="PyCharm"
+    src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"
+/>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
