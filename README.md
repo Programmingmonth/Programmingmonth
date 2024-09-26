@@ -78,7 +78,7 @@
     src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
 />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **The best operating systems I like:**
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="30" /> The best operating systems I like:
 <a href="https://www.microsoft.com/windows">
 <img
     alt="Windows"
@@ -106,7 +106,7 @@
     src="https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white"
 />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> The best app for programming:
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="30" /> The best app for programming:
 
 <a href="https://code.visualstudio.com/">
 <img
