@@ -1,6 +1,6 @@
 ##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp;  Programming Month  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
-<p>Hello, I am a programmer. I mostly work in the field of artificial intelligence. But sometimes I work with all other programming languages</p>
+<p>Hello, I am a programmer. I mostly work in the field of artificial intelligence. But sometimes I work with all other programming languages.</p>
 <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&color=bf00ff&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Programming+Month;Nice+to+meet+you" />
 </h1>
