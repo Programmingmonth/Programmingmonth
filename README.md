@@ -30,6 +30,10 @@
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
 />
 <img
+    alt="Solidity"
+    src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"
+/>
+<img
     alt="JavaScript"
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
 />
